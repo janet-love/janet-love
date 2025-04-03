@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janet-love  Data scientist. Project Manager. Cat Lover. Outdoor enthusiast.
+- 👋 Hi, I’m @janet-love  ::  Data scientist. Project Manager. Cat Lover. Outdoor enthusiast.
   
 - 👀 I’m interested in ...
   
